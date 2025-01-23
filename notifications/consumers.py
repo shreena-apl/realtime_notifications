@@ -36,4 +36,4 @@ class NotificationConsumer(AsyncWebsocketConsumer):
                     "notification": notification,
                 }
             )
-        )
+        ) 
